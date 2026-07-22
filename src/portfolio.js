@@ -200,7 +200,6 @@ const experience = {
   ],
 };
 
-// Work experience section definition
 const workExperiences = {
   experience: [
     {
@@ -218,6 +217,51 @@ const contactInfo = {
   email_address: "thariqhatrama@gmail.com",
 };
 
+// Add missing exports required by Projects.js & ContactComponent.js
+const projectsHeader = {
+  title: "Projects",
+  description: "Some of my favorite open source and custom web development projects.",
+  avatar_image_path: "projects_image.svg",
+};
+
+const publicationsHeader = {
+  title: "Publications",
+  description: "",
+  avatar_image_path: "projects_image.svg",
+};
+
+const publications = {
+  data: []
+};
+
+const contactPageData = {
+  contactSection: {
+    title: "Contact Me",
+    profile_image_path: "animated_ashutosh.png",
+    description: "Discuss a project or just want to say hi? My inbox is open for all.",
+  },
+  blogSection: {
+    title: "Blogs",
+    subtitle: "I write tech articles and share my developer journey.",
+    link: "https://github.com/thariqhatrama",
+    avatar_image_path: "blogs_image.svg",
+  },
+  addressSection: {
+    title: "Address",
+    subtitle: "Medan / Solo, Indonesia",
+    avatar_image_path: "address_image.svg",
+  },
+  phoneSection: {
+    title: "Phone Number",
+    subtitle: "",
+  },
+};
+
+const openSource = {
+  githubUserName: "thariqhatrama",
+  githubConvertedToken: "", // Token empty so it falls back to public fetch if no query
+};
+
 export {
   settings,
   seo,
@@ -230,4 +274,9 @@ export {
   experience,
   workExperiences,
   contactInfo,
+  projectsHeader,
+  publicationsHeader,
+  publications,
+  contactPageData,
+  openSource,
 };
