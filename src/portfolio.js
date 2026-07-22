@@ -183,6 +183,22 @@ const experience = {
   description: "I build modern web systems and automate processes using AI models and tools.",
   sections: [
     {
+      title: "Work",
+      work: true, // Mark this section as work to satisfy SeoHeader schema parser
+      experiences: [
+        {
+          title: "Software Engineer & AI Specialist",
+          company: "Freelance",
+          company_url: "https://github.com/thariqhatrama",
+          logo_path: "google_logo.png",
+          duration: "2026 - Present",
+          location: "Medan/Solo, Indonesia",
+          description: "Designing frontend interfaces and writing backend integration pipelines using modern AI technologies.",
+          color: "#0879bf",
+        },
+      ],
+    },
+    {
       title: "Personal Projects",
       experiences: [
         {
