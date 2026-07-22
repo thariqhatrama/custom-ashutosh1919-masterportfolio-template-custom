@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Thariqhat Rama",
-  logo_name: "Thariqhat RamaHathidara",
+  logo_name: "Thariqhat Rama",
   nickname: "thariqhatrama",
   subTitle:
     "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
