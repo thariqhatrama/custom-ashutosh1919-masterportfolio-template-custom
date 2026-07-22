@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Thariqhat Rama's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Thariqhat Rama Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,13 +19,13 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Thariqhat Rama",
+  logo_name: "Thariqhat RamaHathidara",
+  nickname: "thariqhatrama",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "#",
   portfolio_repository: "https://github.com/thariqhatrama/masterPortfolio",
   githubProfile: "https://github.com/thariqhatrama",
 };
@@ -33,12 +33,12 @@ const greeting = {
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/thariqhatrama",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
+  // linkedin: "https://linkedin.com/in/thariqhatrama/",
+  // gmail: "thariqhatrama@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
+  // facebook: "https://www.facebook.com/thariqhatrama.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // instagram: "https://instagram.com/thariqhatrama"
 
   {
     name: "Github",
@@ -48,19 +48,19 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://linkedin.com/in/thariqhatrama/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
+    link: "https://github.com/thariqhatrama",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:thariqhatrama@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -72,13 +72,13 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/thariqhatrama.19/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://instagram.com/thariqhatrama",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -332,7 +332,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/thariqhatrama/",
     },
     {
       siteName: "HackerRank",
@@ -340,7 +340,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/thariqhatrama",
     },
     {
       siteName: "Codechef",
@@ -356,7 +356,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "http://codeforces.com/profile/thariqhatrama",
     },
     {
       siteName: "Hackerearth",
@@ -372,7 +372,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/thariqhatrama",
     },
   ],
 };
@@ -526,7 +526,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -541,7 +541,7 @@ const experience = {
           duration: "June 2023 - Present",
           location: "San Jose, CA, USA",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#000000",
         },
         {
@@ -552,7 +552,7 @@ const experience = {
           duration: "June 2020 - Aug 2021",
           location: "Hyderabad, Telangana",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#0879bf",
         },
         {
@@ -563,7 +563,7 @@ const experience = {
           duration: "May 2018 - Oct 2018",
           location: "Pune, Maharashtra",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#9b1578",
         },
         {
@@ -574,7 +574,7 @@ const experience = {
           duration: "Nov 2017 - Dec 2017",
           location: "Ahmedabad, Gujarat",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#fc1f20",
         },
       ],
@@ -590,7 +590,7 @@ const experience = {
           duration: "May 2022 - Aug 2022",
           location: "San Francisco, USA",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#000000",
         },
         {
@@ -601,7 +601,7 @@ const experience = {
           duration: "May 2019 - Sept 2019",
           location: "Gurgaon, Haryana",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#ee3c26",
         },
         {
@@ -613,7 +613,7 @@ const experience = {
           duration: "Nov 2018 - Dec 2018",
           location: "Work From Home",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#0071C5",
         },
       ],
@@ -629,7 +629,7 @@ const experience = {
           duration: "June 2019 - April 2020",
           location: "Hyderabad, Telangana",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#4285F4",
         },
         {
@@ -640,7 +640,7 @@ const experience = {
           duration: "Aug 2019 - May 2020",
           location: "Hyderabad, Telangana",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#D83B01",
         },
         {
@@ -651,7 +651,7 @@ const experience = {
           duration: "Oct 2019 - May 2020",
           location: "Kurnool, Andhra Pradesh",
           description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#000000",
         },
         {
@@ -663,7 +663,7 @@ const experience = {
           duration: "Jan 2018 - May 2020",
           location: "Kurnool, Andhra Pradesh",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#0C9D58",
         },
         {
@@ -674,7 +674,7 @@ const experience = {
           duration: "July 2019 - PRESENT",
           location: "Work From Home",
           description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+            "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
           color: "#181717",
         },
       ],
@@ -686,13 +686,13 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
+  description: "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -702,21 +702,21 @@ const publications = {
       id: "neuro-symbolic-sudoku-solver",
       name: "Neuro-Symbolic Sudoku Solver",
       createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
+      description: "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
       url: "https://arxiv.org/abs/2307.00653",
     },
     {
       id: "mdp-diffusion",
       name: "MDP-Diffusion",
       createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
+      description: "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
       url: "https://blog.paperspace.com/mdp-diffusion/",
     },
     {
       id: "consistency-models",
       name: "Consistency Models",
       createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
+      description: "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
       url: "https://blog.paperspace.com/consistency-models/",
     },
   ],
@@ -728,7 +728,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Building clean web apps and integrating AI agents. Focused on Next.js, React, and Tailwind CSS.",
   },
   blogSection: {
     title: "Blogs",
