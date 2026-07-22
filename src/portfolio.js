@@ -217,7 +217,7 @@ const contactInfo = {
   email_address: "thariqhatrama@gmail.com",
 };
 
-// Add missing exports required by Projects.js & ContactComponent.js
+// Add missing exports required by Projects.js & ContactComponent.js & SeoHeader.js
 const projectsHeader = {
   title: "Projects",
   description: "Some of my favorite open source and custom web development projects.",
@@ -250,6 +250,11 @@ const contactPageData = {
     title: "Address",
     subtitle: "Medan / Solo, Indonesia",
     avatar_image_path: "address_image.svg",
+    locality: "Medan / Solo",
+    country: "Indonesia",
+    region: "Sumatra / Central Java",
+    postalCode: "",
+    streetAddress: ""
   },
   phoneSection: {
     title: "Phone Number",
